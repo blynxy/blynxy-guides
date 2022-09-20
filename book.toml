@@ -3,5 +3,5 @@ authors = ["Blynxy Furyfur"]
 language = "en"
 multilingual = false
 src = "src"
-title = "Blynxy's Guide Book"
-default-theme = "Navy"
+title = "Blynx's Guide Book"
+default-theme = "blynxy"
