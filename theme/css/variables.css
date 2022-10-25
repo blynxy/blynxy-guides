@@ -51,10 +51,10 @@
 }
 
 .blynxy {
-    --bg: hsl(267, 29%, 15%);
+    --bg: hsl(266, 9%, 16%);
     --fg: #c5c5c5;
 
-    --sidebar-bg: #19141f;
+    --sidebar-bg: #1e1a22;
     --sidebar-fg: #c8c9db;
     --sidebar-non-existant: #5c6773;
     --sidebar-active: #54c3ff;
